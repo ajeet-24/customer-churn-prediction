@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+myenv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Templates (optional - include if you want to share your HTML)
+# templates/
+
+# Model files (optional - remove these lines if you want to push .pkl files)
+# *.pkl
+
+# Dataset (optional - already on Kaggle, saves repo space)
+# *.csv
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
